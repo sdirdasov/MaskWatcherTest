@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="default_text">Enter the number of the car</string>
+    <string name="hint_numphone">The number phone</string>
+</resources>
